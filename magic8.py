@@ -1,6 +1,6 @@
 import random
-name = 'User'
-question = 'Will you hire me?'
+name = 'Noah'
+question = 'Can you do this?'
 answer = ''
 random.randint(1,9)
 random_number = random.randint(1,9)
